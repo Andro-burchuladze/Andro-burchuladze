@@ -1,5 +1,5 @@
 ### Hi there 😃👋
-#### I'm Andro. I am a backend developer. Interested in new topics and solving challenges. My best colleagues are Google, Stackoverflow, Udemy, and Youtube.
+#### I'm Andro. I am a backend developer. I m enjoying node.js and Express, but I will accept challenges and want to know more. Interested in new topics and solving challenges. My best colleagues are Google, Stackoverflow, Udemy, and Youtube.
 
 <hr/>
 <!-- </p align="center">
